@@ -17,6 +17,9 @@ namespace aspnetcore.Data
         public DbSet<Product> Products { get; set; }
         public DbSet<Category> Categories { get; set; }
 
+        // protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        //     => optionsBuilder.UseNpgsql("Host=localhost;Database=MusicApp;Username=postgres;Password=postMusic12345");
+
 
 
     }

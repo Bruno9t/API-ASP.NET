@@ -38,3 +38,7 @@
 /home/bruno/Documentos/asp-dot-net/aspnetcore/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
 /home/bruno/Documentos/asp-dot-net/aspnetcore/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
 /home/bruno/Documentos/asp-dot-net/aspnetcore/obj/Debug/netcoreapp3.1/aspnetcore.csproj.CopyComplete
+/home/bruno/Documentos/asp-dot-net/aspnetcore/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/home/bruno/Documentos/asp-dot-net/aspnetcore/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/home/bruno/Documentos/asp-dot-net/aspnetcore/bin/Debug/netcoreapp3.1/Npgsql.dll
+/home/bruno/Documentos/asp-dot-net/aspnetcore/bin/Debug/netcoreapp3.1/Npgsql.EntityFrameworkCore.PostgreSQL.dll
